@@ -9,4 +9,8 @@ Contents Include:
 - Book Review Directory
 	- Takes in files with book names and ratings
 	- Outputs the following options
-		-  Print all books, Book-count by genre, Filter books by genre, author, Add user, Read ratings, Get rating, Get user statistics
+		-  Print all books, Book-count by genre, Filter books by genre, Author, Add user, Read ratings, Get rating, Get user statistics
+- DNA Analyzer project 
+	- Calculates similarity score between to strings
+	- Finds the best similarity score between a sequence and a genome sub-sequence 
+	- Finds the best match or matches of the sequence in the three genomes 
