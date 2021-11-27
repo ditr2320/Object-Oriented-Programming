@@ -1,0 +1,50 @@
+Douglas Adams,The Hitchhiker's Guide To The Galaxy,science fiction
+Richard Adams,Watership Down,fantasy
+Mitch Albom,The Five People You Meet in Heaven,philosophical fiction
+Laurie Halse Anderson,Speak,young adult
+Maya Angelou,I Know Why the Caged Bird Sings,biography
+Jay Asher,Thirteen Reasons Why,young adult
+Isaac Asimov,Foundation Series,science fiction
+Ann Brashares,The Sisterhood of the Travelling Pants,young adult
+Libba Bray,A Great and Terrible Beauty,fantasy
+Dan Brown,The Da Vinci Code,mystery
+Meg Cabot,The Princess Diaries,young adult
+Orson Scott Card,Ender's Game,science fiction
+Tom Clancy,The Hunt for Red October,action
+Suzanne Collins,The Hunger Games,young adult
+F. Scott Fitzgerald,The Great Gatsby,historical fiction
+John Flanagan,Ranger's Apprentice Series,fantasy
+Cornelia Funke,Inkheart,fantasy
+William Gibson,Neuromancer,science fiction
+William Golding,Lord of the Flies,allegorical novel
+William Goldman,The Princess Bride,fantasy
+James Gurney,Dinotopia: A Land Apart from Time,fantasy
+Will Hobbs,Far North,fiction
+Alice Hoffman,Practical Magic,fantasy
+Aldous Huxley,Brave New World,science fiction
+Guy Gavriel Kay,The Summer Tree,fantasy
+Daniel Keyes,Flowers For Algernon,science fiction
+Patrice Kindl,Owl in Love,fiction
+Masashi Kishimoto,Naruto,fantasy
+Tite Kubo,Bleach,graphic novel
+Elizabeth Laird,Kiss the Dust,young adult
+Harper Lee,To Kill a Mockingbird,coming-of-age story
+C S Lewis,The Lion the Witch and the Wardrobe,fantasy
+Robert Ludlum,The Bourne Series,action
+Yann Martel,Life of Pi,philosophical fiction
+Lurlene McDaniel,Breathless,romance
+Stephenie Meyer,Twilight Series,young adult
+Garth Nix,Sabriel,fantasy
+George Orwell,Nineteen Eighty-Four (1984),science fiction
+Christopher Paolini,Eragon,fantasy
+Gary Paulsen,Hatchet,young adult
+Jodi Picoult,My Sister's Keeper,domestic fiction
+Philip Pullman,The Golden Compass,fantasy
+J.K. Rowling,Harry Potter Series,fantasy
+Louis Sachar,Holes,young adult
+Shueisha,Shonen Jump Series,manga
+Neil Shusterman,The Shadow Club,fiction
+Jeff Smith,Bone Series,graphic novel
+Art Spiegelman,Maus: A Survivor's Tale,graphic novel
+Amy Tan,The Joy Luck Club,domestic fiction
+J R R Tolkien,The Lord of the Rings,fantasy

@@ -1,0 +1,4 @@
+cynthia,4,3,1,0
+diane,3,1,1,0
+joan,3,1,2,0
+barbara,4,5,2,0

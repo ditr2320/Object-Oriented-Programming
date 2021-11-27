@@ -1,0 +1,6 @@
+Date: 8-16-1874
+Miles travelled: 994 miles
+Distance until next milestone: 157 miles
+Food available: 0 pounds
+Number of bullets: 40 bullets
+Cash available: 386.000000 dollars
