@@ -1,4 +1,4 @@
-# Computing in C++
+# Object Oriented Programming in C++
 
 Projects and assignments from Intro to Computing at CU Boulder. Coded in C++ <br />
 
